@@ -1,10 +1,10 @@
-Проектът представлява следното:
+What's the project about:
 Fort Attack - Fantasy Siege "Sim"
 
-Няма да е супер сложно, в момента само прототип.
-Съществени идеи:
+Prototype level stuff, idea sketching.
+General ideas:
 
-- Лорд със собствена армия, която диктува възможностите за siege.
-- Random събития, предоставящи ресурси(храна и вода, пари, информация).
-- Battle sim с random chance за героични премеждия, успехи и неуспехи.
+- Lords with unique armies, dictating the sieges.
+- Random events for resources(food, water, supplies, information, etc.).
+- Battle sim with random chances for successes and failures for individual heroes(Nemesis system incorporated here?)
 - Losing is fun, I guess.
